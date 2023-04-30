@@ -1,4 +1,5 @@
-LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521(7553), 436-444. https://doi.org/10.1038/nature14539
+Y. LeCun, Y. Bengio and G. Hinton, "Deep learning," in Nature, vol. 521, no. 7553, pp. 436-444, May 2015, doi: 10.1038/nature14539.
+
 
 - Dataset
 -M.E.H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M.A. Kadir, Z.B. Mahbub, K.R. Islam, M.S. Khan, A. Iqbal, N. Al-Emadi, M.B.I. Reaz, M. T. Islam, “Can AI help in screening Viral and COVID-19 pneumonia?” IEEE Access, Vol. 8, 2020, pp. 132665 - 132676. Paper link
